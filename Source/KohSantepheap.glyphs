@@ -48940,7 +48940,7 @@ note = uni1789.a;
 },
 {
 glyphname = uni17B6.alt2;
-lastChange = "2021-04-16 11:22:00 +0000";
+lastChange = "2021-12-06 18:37:24 +0000";
 layers = (
 {
 layerId = "0DE963AB-769B-4021-B20D-45864FAF5663";
@@ -48964,6 +48964,7 @@ width = 700;
 }
 );
 note = uni17B6.alt2;
+category = Letter;
 },
 {
 glyphname = uni17BF.b;
@@ -191627,7 +191628,7 @@ note = uni17D2178E.vo;
 },
 {
 glyphname = nyo_17B6khmer.alt;
-lastChange = "2021-04-16 11:25:23 +0000";
+lastChange = "2021-12-06 18:37:24 +0000";
 layers = (
 {
 layerId = "0DE963AB-769B-4021-B20D-45864FAF5663";
@@ -192184,6 +192185,7 @@ width = 2080;
 }
 );
 note = nyo_17B6khmer.alt;
+category = "";
 },
 {
 glyphname = nyo_17C5khmer.alt;
